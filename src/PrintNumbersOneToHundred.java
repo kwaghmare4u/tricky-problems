@@ -1,5 +1,3 @@
-package main.java;
-
 public class PrintNumbersOneToHundred {
 
     public static void main(String[] args) {
